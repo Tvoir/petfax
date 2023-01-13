@@ -1,4 +1,3 @@
-# config                    
 from flask import Flask
 
 # factory
